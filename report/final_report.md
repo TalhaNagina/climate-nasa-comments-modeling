@@ -76,10 +76,3 @@ Machine learning models applied include Random Forest Classifier and Regressor.
 
 ---
 
-## 🔮 Future Work  
-- Use advanced NLP (TF-IDF, BERT) for sentiment.  
-- Try XGBoost / LightGBM.  
-- Build a web app (Flask or Streamlit) for demo.  
-
----
-
